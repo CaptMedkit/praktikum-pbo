@@ -1,3 +1,7 @@
+/*Nama 	: Vicoriza Ramadhani
+NIM 	: 24060121130053
+LAB	: PBO B1*/
+
 class MTitik
 {
 	public static void main(String[] args)
